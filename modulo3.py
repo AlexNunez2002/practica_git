@@ -1,1 +1,1 @@
-print("Modulo 3")
+print("Modulo3")
